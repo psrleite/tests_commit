@@ -7,7 +7,7 @@ Sinalização do Banco de Dados que deve ser utilizado.
 ### Pré Requisitos
 Instância do SQL Server instalada na máquina local com o Banco de Dados Teste criado.
 
-### Prerequisites
+### Comandos
 
 USE [Teste]
 
